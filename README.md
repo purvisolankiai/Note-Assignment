@@ -17,3 +17,7 @@ npm install
 Start the application:
 npm start
 
+Deployed Vercel link-
+
+https://note-assignment-sigma.vercel.app/
+
